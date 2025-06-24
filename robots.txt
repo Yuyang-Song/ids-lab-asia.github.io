@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ids-lab-scu.github.io/sitemap.xml
